@@ -23,7 +23,7 @@ const Startups = () => {
       HydroTribe's systems and techniques ensure that the produce is safe and healthy by avoiding the use of harmful chemicals and instead relying on minerals and nutrients in liquid form. Many satisfied clients have embraced HydroTribe's solutions, realizing their farming aspirations and experiencing the benefits of advanced agricultural technology.
       
       In summary, HydroTribe is at the forefront of integrating technology with agriculture, providing innovative solutions that are sustainable, efficient, and accessible. The company's journey from identifying a problem to becoming a leader in agritech showcases the potential of modern farming techniques to transform agriculture and support farmers worldwide.`,
-      image: '/public/static/images/hy.png', // Replace with your image URL
+      image: '/static/images/hy.png', // Replace with your image URL
     },
     {
       id: 2,
