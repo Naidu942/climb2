@@ -10,7 +10,7 @@ const Blogs = () => {
       title: 'How to Kickstart Your Startup',
       summary: 'Learn the essential steps to start your own business...',
       content: 'This is the full content of the first blog. It goes into detail about each step, offering tips and advice...',
-      image: '/public/static/images/climb1.jpg', // Replace with your image URL
+      image: '/static/images/climb1.jpg', // Replace with your image URL
     },
     {
       id: 2,
