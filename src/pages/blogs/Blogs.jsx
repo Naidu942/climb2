@@ -17,14 +17,14 @@ const Blogs = () => {
       title: 'The Importance of Networking',
       summary: 'Why building a strong network is crucial for your success...',
       content: 'This is the full content of the second blog. It discusses the value of networking and how to effectively connect with others...',
-      image: '/public/static/images/climb2.jpg', // Replace with your image URL
+      image: '/static/images/climb2.jpg', // Replace with your image URL
     },
     {
       id: 3,
       title: 'Top 10 Entrepreneurial Mistakes',
       summary: 'Avoid these common pitfalls on your entrepreneurial journey...',
       content: 'This is the full content of the third blog. It highlights the most frequent mistakes made by entrepreneurs and how to avoid them...',
-      image: '/public/static/images/climb3.jpg', // Replace with your image URL
+      image: '/static/images/climb3.jpg', // Replace with your image URL
     },
   ];
 
